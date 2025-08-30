@@ -72,7 +72,7 @@ body {
   }
 }
 
-// first card 
+// first card
 .card {
   display: flex;
   flex-direction: column;
@@ -141,39 +141,38 @@ body {
 }
 
 // other cards
-.title{
-    font-size: 2.4rem;
-    font-weight: 300;
+.title {
+  font-size: 2.4rem;
+  font-weight: 300;
 }
 
-.type{
-    font-size: 1.2rem;
-    font-weight: 400;
+.type {
+  font-size: 1.2rem;
+  font-weight: 400;
 }
 
-.stack{
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-    margin-top: var(--default-padding);
-    font-size: 1.2rem;
+.stack {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: var(--default-padding);
+  font-size: 1.2rem;
 }
 
-.stack-title{
-    font-weight: 300;
+.stack-title {
+  font-weight: 300;
 }
 
-.languages{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
+.languages {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
 
-.language{
-    display: inline-block;
-    padding: 0.5rem;
-    background-color: var(--color-desaturated-blue);
-    border-radius: calc(var(--default-radius) / 3);
-    text-transform: uppercase;
+.language {
+  display: inline-block;
+  padding: 0.5rem;
+  background-color: var(--color-desaturated-blue);
+  border-radius: calc(var(--default-radius) / 3);
+  text-transform: uppercase;
 }
-
