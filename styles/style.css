@@ -26,8 +26,8 @@ ul,
 ol {
   list-style: none;
 }
-/* End Css Reset */
 
+/* End Css Reset */
 html {
   font-size: 62.5%;
 }
@@ -43,7 +43,7 @@ body {
   display: grid;
 }
 
-.pic{
-    width: 10rem;
-    height: 10rem;
-}
+.pic {
+  width: 10rem;
+  height: 10rem;
+}/*# sourceMappingURL=style.css.map */
